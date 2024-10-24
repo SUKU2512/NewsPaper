@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.body1{
+  padding-top: 10px;
+}
+
+.left {
+  width: 25%;
+  display: inline-block;
+  inline-size:130px;
+  overflow-wrap: break-word;
+  border: solid;
+  text-align: center;
+  margin-left: 15px;
+ }
+ .middle {
+  width: 50%;
+  padding-left:70px;
+  text-align: center;
+  display: inline-block;
+  font-size: 65px; 
+ font-weight: 750; 
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .right {
+  float: right;
+  width: 20%;
+  inline-size: 300px;
+  text-align: justify;
+  margin-right: 15px;
+ }
+ .line1{
+  border-top: 2px solid black;
+ }
+ .line2{
+  border-top: 4px solid black;
+ }
+ .same1{
+  font-weight: 700;
+  font-size:smaller;
+  padding-right: 85px;
+ }
+ .same2{
+  padding-right: 95px;
+  font-size: xx-small;
+ }
+ .small{
+  font-size:small;
+ }
+ .mainhead{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 10px;
+  font-size:30px ;
+ }
+ hr{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ .subhead{
+  font-weight: 800px;
+  text-align: center;
+  font-size: 25px;
+ }
+ .one {
+  float:left;
+  inline-size:400px;
+  overflow-wrap: break-word;
+  text-align: justify;
+ }
+ .two {
+  float:left;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 15px;
+}
+ .three {
+  inline-size:400px;
+  overflow-wrap: break-word;
+  float: right;
+  text-align: justify;
+ }
+ .img1{
+  padding-top: 20px;
+  width: 400px;
+  
+ }
+ .img2{
+  width:400px;
+  height:200px;
+ }
+ .img3{
+  display: inline-block;
+ }
+ .img4{
+  display: inline-block;
+  padding-left: 2px;
+  width:20px;
+ }
+ .short1{
+  height: 430px;
+  width:200px;
+ }
+ .short2{
+  height: 430px;
+  width:200px;
+ }
